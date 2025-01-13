@@ -17,7 +17,7 @@ PySide6 (Qt for Python)
 
 # Installation
 
-Clone the repository: git clone https://github.com/your-username/to-do-list.git
+Clone the repository: git clone https://github.com/Pletea-Marinescu-Valentin/to-do-list.git
 
 Install dependencies: pip install PySide6
 
